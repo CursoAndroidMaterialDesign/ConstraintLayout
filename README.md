@@ -3,8 +3,6 @@ ConstraintLayout
 
 O ConstraintLayout permite que você crie layouts grandes e complexos.
 
-***Esse projeto faz parte do Curso Completo de Android Material Design ([https://www.udemy.com/curso-android-material-design/](https://www.udemy.com/curso-android-material-design/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
